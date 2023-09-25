@@ -7,3 +7,6 @@ I've utilized diverse #analytics and #machinelearning techniques to analyze and 
 Build a machine learning model to identify fraudulent credit card transactions.
 Preprocess and normalize the transaction data, handle class imbalance issues, and split the dataset into training and testing sets.
 Train a classification algorithm, such as logistic regression or random forests, to classify transactions as fraudulent or genuine. Evaluate the model's performance using metrics like precision, recall, and F1-score, and consider techniques like oversampling or undersampling for improving results.
+
+# Task 3 Iris Flower Classification
+Classification of iris flowers is perhaps the best-known example of machine learning. The aim is to classify iris flowers among three species (Setosa, Versicolor, or Virginica) from sepals' and petals' length and width measurements. The iris data set contains fifty instances of each of the three species.
